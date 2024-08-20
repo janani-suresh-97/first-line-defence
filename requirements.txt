@@ -1,0 +1,8 @@
+numpy==1.24.3
+torch==2.2.2
+torchaudio==2.2.2
+torchsummary==1.5.1
+torchvision==0.17.2
+tqdm==4.66.2
+git+https://github.com/fra31/auto-attack
+foolbox==3.3.1
